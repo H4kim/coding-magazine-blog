@@ -10,9 +10,9 @@ export const config = {
 
   // Set it to true if you have a Github app to add to this project
   // and fill the client ID & secret
-  enableOAuth: false,
-  OAuthClientID: 'Iv1.49a6e6157a0928cb',
-  OAuthSecret: '482b665d10db8e23b3408dfbd017e761079da07e',
+  enableOAuth: true,
+  OAuthClientID: 'Iv1.aac173d3053a1c55',
+  OAuthSecret: '0e0105fac3ac3dc0ee21fd73a23e605ffd35dcbf',
 
   // Your Personal Blog Title
   title : "Coding Magazine" ,
