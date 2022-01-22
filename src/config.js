@@ -11,8 +11,8 @@ export const config = {
   // Set it to true if you have a Github app to add to this project
   // and fill the client ID & secret
   enableOAuth: false,
-  OAuthClientID: '',
-  OAuthSecret: '',
+  OAuthClientID: 'Iv1.49a6e6157a0928cb',
+  OAuthSecret: '482b665d10db8e23b3408dfbd017e761079da07e',
 
   // Your Personal Blog Title
   title : "Coding Magazine" ,
@@ -25,7 +25,7 @@ export const config = {
     backgroundColor: '#f1f6f8', // can be a CSS gradient
     backgroundColorDark: '#4C566A',
     titleColor: '#ff5252',
-    titleColorDark: '#16a085',
+    titleColorDark: 'orangered',
     subtitleColor: '#37474f',
     subtitleColorDark: '#D8DEE9',
   },
