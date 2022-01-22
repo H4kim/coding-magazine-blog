@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/coding-magazine-blog/static/css/main.cfa08aa7.chunk.css",
+    "main.js": "/coding-magazine-blog/static/js/main.579b1076.chunk.js",
+    "main.js.map": "/coding-magazine-blog/static/js/main.579b1076.chunk.js.map",
+    "runtime-main.js": "/coding-magazine-blog/static/js/runtime-main.6393d8b3.js",
+    "runtime-main.js.map": "/coding-magazine-blog/static/js/runtime-main.6393d8b3.js.map",
+    "static/js/2.bb5ffcce.chunk.js": "/coding-magazine-blog/static/js/2.bb5ffcce.chunk.js",
+    "static/js/2.bb5ffcce.chunk.js.map": "/coding-magazine-blog/static/js/2.bb5ffcce.chunk.js.map",
+    "index.html": "/coding-magazine-blog/index.html",
+    "precache-manifest.9f2281c21731c886207232a7a042766a.js": "/coding-magazine-blog/precache-manifest.9f2281c21731c886207232a7a042766a.js",
+    "service-worker.js": "/coding-magazine-blog/service-worker.js",
+    "static/css/main.cfa08aa7.chunk.css.map": "/coding-magazine-blog/static/css/main.cfa08aa7.chunk.css.map",
+    "static/js/2.bb5ffcce.chunk.js.LICENSE": "/coding-magazine-blog/static/js/2.bb5ffcce.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6393d8b3.js",
+    "static/js/2.bb5ffcce.chunk.js",
+    "static/css/main.cfa08aa7.chunk.css",
+    "static/js/main.579b1076.chunk.js"
+  ]
+}
